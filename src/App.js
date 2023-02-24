@@ -7,6 +7,7 @@ return (
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>Will update soon</p>
+        <p>Poop</p>
         <a className="App-link" href="https://reactjs.org" target="_blank" rel="noopener noreferrer">Learn React</a>
       </header>
     </div>
